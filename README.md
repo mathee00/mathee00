@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathee00.
-- 👀 I’m interested in learning .Net and AI.
+- 👀 I’m interested in learning block-chain and AI technologies.
 - 🌱 I’m currently learning JAVA and SQL.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me on facebook and linkdin.
